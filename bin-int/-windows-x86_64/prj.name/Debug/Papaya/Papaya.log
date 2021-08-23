@@ -1,0 +1,3 @@
+﻿  Papaya.vcxproj -> C:\Users\EzzTheRose\fun\Papaya\bin\-windows-x86_64\prj.name\Papaya.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: The command "IF EXIST ..\bin\-windows-x86_64\prj.name\Papaya.dll\ (xcopy /Q /E /Y /I ..\bin\-windows-x86_64\prj.name\Papaya.dll ..\bin\-windows-x86_64\Sandbox > nul) ELSE (xcopy /Q /Y /I ..\bin\-windows-x86_64\prj.name\Papaya.dll ..\bin\-windows-x86_64\Sandbox > nul)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd" exited with code 2.
