@@ -85,6 +85,7 @@
     <ClInclude Include="src\Papaya.h" />
     <ClInclude Include="src\Papaya\Application.h" />
     <ClInclude Include="src\Papaya\Core.h" />
+    <ClInclude Include="src\Papaya\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Papaya\Application.cpp" />

@@ -9,9 +9,9 @@ namespace Papaya
 	public:
 		Application();
 		virtual ~Application();
-
 		void Run();
 	};
 
+	Application* CreateApplication(); // defined in CLIENT
 }
 

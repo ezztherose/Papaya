@@ -24,6 +24,9 @@
     <ClInclude Include="src\Papaya.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Papaya\EntryPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Papaya\Application.cpp">

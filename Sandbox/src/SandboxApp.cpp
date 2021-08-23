@@ -14,9 +14,7 @@ public:
 	}
 };
 
-void main()
+Papaya::Application* Papaya::CreateApplication()
 {
-	Sandbox* sandbox = new Sandbox(); // creat on the heap
-	sandbox->Run();
-	delete sandbox;
+	return new Sandbox();
 }
