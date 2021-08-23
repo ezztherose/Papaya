@@ -1,1 +1,5 @@
-.vs
+# Directories
+.vs/
+
+# Files
+*.user
